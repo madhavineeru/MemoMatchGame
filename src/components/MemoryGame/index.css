@@ -1,0 +1,12 @@
+.fruits-container{
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: none;
+    margin-left: 25%;
+    
+
+}

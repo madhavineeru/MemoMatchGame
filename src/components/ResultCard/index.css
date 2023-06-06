@@ -1,0 +1,27 @@
+.score-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center  ;
+}  
+.game-status{
+    font-size: 25px;
+    font-family: "roboto";
+}
+.button{
+    border: none;
+    background-color: blue;
+    font-size: 20px;
+    color: #fff;
+    font-family: "roboto";
+    border-radius: 10px;
+    padding: 10px;
+    font-weight: 700;
+
+
+}
+.score-status{
+    font-size: 25px;
+    font-family: "roboto";
+    font-weight:600;
+}

@@ -1,0 +1,12 @@
+.fruits-list{
+    list-style: none;
+
+}
+.fruit-btn{
+    border: none;
+}
+.fruit-img{
+    height: 140px;
+    width: 140px;
+    margin: 10px;
+}
